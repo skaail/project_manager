@@ -1,6 +1,0 @@
-{
-  "databaseURL": "https://skaail-s-workspace-69iq0g.us-east-1.xata.sh/db/project-manager",
-  "codegen": {
-    "output": "src/xata.ts"
-  }
-}
